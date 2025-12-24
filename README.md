@@ -160,6 +160,12 @@ A CS student passionate about developer tools and privacy.
 - [ ] More language support
 - [ ] Advanced regex tools
 
+
+## 🙏 Acknowledgments
+
+- [SolvyrEryx](https://github.com/SolvyrEryx) - Collaboration & development support
+- [Tailwind CSS](https://tailwindcss.com/) - Styling framework
+- [Font Awesome](https://fontawesome.com/) - Icon library
 ## 🙋 Support
 
 If you found this helpful:
